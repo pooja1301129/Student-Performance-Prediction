@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Performance Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -19,3 +20,7 @@ The project is built using Python, Pandas, and Scikit-learn.
 - Pandas 📊
 - Scikit-learn 🤖
 - VS Code 💻
+=======
+# Student-Performance-Prediction
+Machine Learning project that predicts student performance (Pass/Fail) based on study hours, attendance, and previous scores. Includes data preprocessing, model training, evaluation, and Streamlit web UI for real-time prediction.
+>>>>>>> 2754347b444c0b20904ae509b96f5a68134049ef
